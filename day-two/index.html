@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Day Two</title>
+</head>
+<body>
+  <main>
+    <div class="menu-icon" id="menu-icon">
+      <div class="line1"></div>
+      <div class="line2"></div>
+      <div class="line3"></div>
+    </div>
+  </main>
+
+  <script>
+    const menuEL = document.getElementById('menu-icon');
+
+    menuEL.addEventListener("click", function(){
+      menuEL.classList.toggle('active')
+    });
+  </script>
+</body>
+</html>
