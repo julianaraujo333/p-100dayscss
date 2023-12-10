@@ -32,8 +32,8 @@
   border-radius: 50%;
   background: #FFEF00;
   transform-origin: 50% 400%;
-  /* -webkit-animation: sun-goes-down 4s cubic-bezier(0.4, 0, 0.49, 1) infinite; */
-  /* animation: sun-goes-down 4s cubic-bezier(0.4, 0, 0.49, 1) infinite; */
+  -webkit-animation: sun-goes-down 4s cubic-bezier(0.4, 0, 0.49, 1) infinite;
+  animation: sun-goes-down 4s cubic-bezier(0.4, 0, 0.49, 1) infinite;
 }
 
 .side-left{
@@ -86,4 +86,22 @@
   background: #F0DE75;
   /* -webkit-animation: fading-sand 4s cubic-bezier(0.4, 0, 0.49, 1) infinite;
   animation: fading-sand 4s cubic-bezier(0.4, 0, 0.49, 1) infinite; */
+}
+
+@keyframes sun-goes-down {
+  0%{
+    background: #F57209;
+    transform: rotate(-70deg);
+  }
+  30%{
+    background: #FFEF00;
+    transform: rotate(-28deg)
+  }
+  70%{
+    background: #FFEF00;
+  }
+  100%{
+    background: #F57209;
+    transform: rotate(70deg);
+  }
 }
