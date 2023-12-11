@@ -1,10 +1,10 @@
 # 100 Days of CSS Challenge
 
-Welcome to my "100 Days of CSS" challenge repository, inspired by [100dayscss.co](https://100dayscss.co/)!
+Welcome to my "100 Days of CSS" challenge repository, inspired by [100dayscss.com](https://100dayscss.com/)!
 
 ## Objective
 
-The primary goal of this repository is to document my journey of 100 days practicing and refining my front-end design and development skills using CSS. Each day represents a new challenge inspired by [100dayscss.co](https://100dayscss.co/).
+The primary goal of this repository is to document my journey of 100 days practicing and refining my front-end design and development skills using CSS. Each day represents a new challenge inspired by [100dayscss.com](https://100dayscss.com/).
 
 ## Repository Structure
 
