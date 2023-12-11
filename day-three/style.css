@@ -43,10 +43,10 @@
   height: 57px;
   width: 116px;
   background: #F4F4F4;
-  /* -webkit-clip-path: polygon(0% 100%, 100% 100%, 50% 0%); */
+  -webkit-clip-path: polygon(0% 100%, 100% 100%, 50% 0%);
   clip-path: polygon(0% 100%, 100% 100%, 50% 0%);
-  /* -webkit-animation: pyramide-shading 4s cubic-bezier(0.4, 0, 0.49, 1) infinite;
-  animation: pyramide-shading 4s cubic-bezier(0.4, 0, 0.49, 1) infinite; */
+  -webkit-animation: pyramide-shading 4s cubic-bezier(0.4, 0, 0.49, 1) infinite;
+  animation: pyramide-shading 4s cubic-bezier(0.4, 0, 0.49, 1) infinite;
 }
 
 .side-right{
@@ -88,6 +88,21 @@
   animation: fading-sand 4s cubic-bezier(0.4, 0, 0.49, 1) infinite; */
 }
 
+@keyframes sky-turns-black {
+  0% {
+    background: #272C34;
+  }
+  30% {
+    background: #7DDFFC;
+  }
+  70% {
+    background: #7DDFFC;
+  }
+  100% {
+    background: #272C34;
+  }
+}
+
 @keyframes sun-goes-down {
   0%{
     background: #F57209;
@@ -103,5 +118,20 @@
   100%{
     background: #F57209;
     transform: rotate(70deg);
+  }
+}
+
+@keyframes pyramide-shading {
+  0%{
+    background: #272C34;
+  }
+  30%{
+    background: #F4F4F4;
+  }
+  70%{
+    background: #DDDADA;
+  }
+  100%{
+    background: #272C34;
   }
 }
