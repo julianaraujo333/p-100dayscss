@@ -1,10 +1,14 @@
-# Desafio 100 Days of CSS
+# 100 Days of CSS Challenge
 
-Bem-vindo ao meu repositório do desafio "100 Days of CSS" baseado no [100dayscss.com](https://100dayscss.com/)!
+Welcome to my "100 Days of CSS" challenge repository, inspired by [100dayscss.co](https://100dayscss.co/)!
 
-## Objetivo
+## Objective
 
-O objetivo principal deste repositório é documentar minha jornada de 100 dias praticando e aprimorando minhas habilidades de design e desenvolvimento front-end usando CSS. Cada dia representa um novo desafio inspirado pelo [100dayscss.com](https://100dayscss.com/).
+The primary goal of this repository is to document my journey of 100 days practicing and refining my front-end design and development skills using CSS. Each day represents a new challenge inspired by [100dayscss.co](https://100dayscss.co/).
 
+## Repository Structure
 
+The repository is organized as follows:
 
+- **/dia-01**
+  -  ![Day 3 Project](https://github.com/julianaraujo333/p-100dayscss/blob/main/gifs/day-3.gif)
