@@ -10,5 +10,11 @@ The primary goal of this repository is to document my journey of 100 days practi
 
 The repository is organized as follows:
 
-- **/dia-03** 
-  - ![Day 3 Project](https://github.com/julianaraujo333/p-100dayscss/blob/main/gifs/day-3.gif)
+- **/day-01** 
+  - ![Day 1 Project](https://github.com/julianaraujo333/p-100dayscss/blob/main/assets/day-1.png)
+    
+- **/day-02** 
+  - ![Day 2 Project](https://github.com/julianaraujo333/p-100dayscss/blob/main/assets/day-2.gif)
+
+- **/day-03** 
+  - ![Day 3 Project](https://github.com/julianaraujo333/p-100dayscss/blob/main/assets/day-3.gif)
